@@ -27,4 +27,6 @@ class Scraper
     end
     students
   end
+
 end
+
